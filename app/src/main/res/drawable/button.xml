@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient
+        android:startColor="@color/buttonColor"
+        android:endColor="@color/black" /> <!-- Define the angle for the gradient if needed -->
+
+    <corners android:radius="20dp"/>
+
+</shape>
